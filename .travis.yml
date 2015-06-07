@@ -1,0 +1,4 @@
+os:
+   - linux
+language: python
+script: nosetests srcs/tests/
